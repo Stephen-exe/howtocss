@@ -16,6 +16,10 @@ header h1.titleh1 {
   padding: 1%;
 }
 
+h1 {
+  color: #e866ec;
+}
+
 footer {
   margin: 0 auto;
   padding: 5%;
