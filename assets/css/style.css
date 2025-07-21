@@ -1,0 +1,15 @@
+header {
+  margin: 0 auto;
+  padding: 5%;
+  text-align: center;
+}
+
+header h1.titleh1 {
+  padding: 1%;
+}
+
+footer {
+  margin: 0 auto;
+  padding: 5%;
+  text-align: center;
+}
